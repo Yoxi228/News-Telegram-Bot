@@ -22,7 +22,7 @@ Telegram бот для агрегации новостей из VK и Twitter. �
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/ваш-username/python-parser.git
+git clone https://github.com/Yoxi228/News-Telegram-Bot
 cd python-parser
 ```
 
