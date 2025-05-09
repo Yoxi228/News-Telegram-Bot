@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+
+# Logs
+*.log
+bot.log
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+sources.json
+
